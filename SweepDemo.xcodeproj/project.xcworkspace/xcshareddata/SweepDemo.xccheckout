@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C2C9327E-99EF-4EA2-8BA7-6A63EE621B95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SweepDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F17F64BD7FF12B67F8D5919D253C73C456D4D190</key>
+		<string>https://github.com/Lynnll/SweepDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SweepDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F17F64BD7FF12B67F8D5919D253C73C456D4D190</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Lynnll/SweepDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F17F64BD7FF12B67F8D5919D253C73C456D4D190</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F17F64BD7FF12B67F8D5919D253C73C456D4D190</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SweepDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
